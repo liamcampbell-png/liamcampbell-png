@@ -2,16 +2,16 @@
 
 CS + Math @ University of Iowa &nbsp;·&nbsp; Expected May 2027
 
-I'm a CS and Math student interested in the intersection of software engineering and quantitative finance. I build things that involve data, systems, and sometimes markets.
+I'm a CS and Math student interested in software engineering, machine learning, and artificial intelligence. I build things that involve data, systems, and sometimes markets.
 
 ---
 
 ## What I work on
 
 - **Software engineering** — backend APIs, enterprise systems, production-grade tooling
-- **Quantitative finance** — statistical arbitrage, ML-driven trading strategies, portfolio modeling
+- **Machine Learning / Quantitative Finance** — statistical arbitrage, ML-driven trading strategies, portfolio modeling
 - **Infrastructure & tooling** — server management, IT systems, developer workflows
-
+- **Artificial Intelligence** - ??
 ---
 
 ## Tools & languages
