@@ -10,7 +10,7 @@ I'm a CS and Math student interested in software engineering, machine learning, 
 
 - **Artificial Intelligence / Machine Learning**
 - **Software engineering** 
-- ** Quantitative Finance** 
+- **Quantitative Finance** 
 ---
 
 ## Tools & languages
