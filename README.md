@@ -2,16 +2,15 @@
 
 CS + Math @ University of Iowa &nbsp;·&nbsp; Expected May 2027
 
-I'm a CS and Math student interested in software engineering, machine learning, and artificial intelligence. I build things that involve data, systems, and sometimes markets.
+I'm a CS and Math student interested in software engineering, machine learning, and artificial intelligence. 
 
 ---
 
-## What I work on
+## Topics I enjoy 
 
-- **Software engineering** — backend APIs, enterprise systems, production-grade tooling
-- **Machine Learning / Quantitative Finance** — statistical arbitrage, ML-driven trading strategies, portfolio modeling
-- **Infrastructure & tooling** — server management, IT systems, developer workflows
-- **Artificial Intelligence** - ??
+- **Artificial Intelligence / Machine Learning**
+- **Software engineering** 
+- ** Quantitative Finance** 
 ---
 
 ## Tools & languages
@@ -20,6 +19,9 @@ I'm a CS and Math student interested in software engineering, machine learning, 
 `Scikit-learn` `Pandas` `Git` `SQL` `LaTeX` `.NET / C#`
 
 ---
+## Current work / Projects
+- **Crohn's Disease Predictor via Gut Microbiome using Machine Learning** - A machine learning algorithm to predict Crohn's Disease given the bacterium levels in the Gut Microbiome
+- **Daily Reads Newsletter** - The most personalized newsletter 
 
 ## Experience
 
